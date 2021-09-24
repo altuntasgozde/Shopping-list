@@ -1,0 +1,19 @@
+body {
+    background-color: #394953 !important;
+}
+
+.card {
+    border:1px solid #394953 !important;
+}
+
+.card-header {
+    background-color: #E8C86F !important;
+}
+
+.addbtn {
+    background-color: #D66237 !important;
+}
+
+.btndeleteall {
+    background-color: #394953 !important;
+}
